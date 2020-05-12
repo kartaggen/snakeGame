@@ -12,7 +12,7 @@ Classic representation of the Snake game in Java using [Lanterna](https://code.g
 
 Navigate to a new folder of your choice. Clone this repository.
 ```git
-git clone https://github.com/kartaggen/snakeGame
+git clone https://github.com/kartaggen/snakeGame.git
 ```
 
 To build the executable jar file, you need to run the Maven command
@@ -29,7 +29,6 @@ snakeGame-1.0-jar-with-dependencies.jar
 Screenshot 1 |Screenshot 2
 ---------------------|-----------------
 ![Snake - screenshot](screenshots/scr1.png) | ![Snake - screenshot](screenshots/scr2.png)
-|
 
 Screenshot 3|Screenshot 4
 ---------------------|-----------------
